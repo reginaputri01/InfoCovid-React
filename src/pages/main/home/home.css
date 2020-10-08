@@ -1,9 +1,15 @@
 .home {
     overflow: hidden;
 }
-.text {
-    width: 70%;
+.head-container {
+    height: 250px;
 }
 header {
     padding-top: 50px;
+}
+.sub-desc {
+    line-height: 30px;
+}
+table {
+    background-color: #00000050;
 }
